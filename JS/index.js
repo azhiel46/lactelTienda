@@ -41,3 +41,9 @@ sr.reveal('#locationID', {
   distance: '-100px'
 });
 
+sr.reveal('#visionID', {
+  duration: 3000,
+  origin: 'right',
+  distance: '-100px'
+});
+
